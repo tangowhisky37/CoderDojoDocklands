@@ -35,7 +35,7 @@ We might consider folowing a syllabus where it makes sense, especially with our 
 
 You can read more about the CoderDojo movement at [CoderDojo.com](https://coderdojo.com/about/).
 
-To attend the sessions please see the "Howto Book A Seat" section below. Our sessions are wait-listed and parents are required to request an enrollment using the "Register Interest" form link provided. Only once your enrollment is confirmed are you able to book a ticket through Eventbrite (ticket booking and administration). Enrollments are confirmed at the start of the term and is offered on first come first served basis. Drop us a note at dojo@hack2.live if you have any questions.
+To attend the sessions please see the "Howto Book A Seat" section below. Our sessions are wait-listed and parents are required to request an enrollment using the "Register Interest" form link provided. Only once your enrollment is confirmed are you able to book a ticket through Eventbrite (ticket booking and administration). Enrollments are confirmed at the start of the term and is offered on first come first served basis. Drop us a note at docklandsdojo@hack2.live if you have any questions.
 
 ## When Do We Meet
 
