@@ -9,7 +9,7 @@ CoderDojo Docklands is run at the Docklands library and makerspace also called [
 
 At this page you will find all the information required to sign-up to CoderDojo Docklands (Melbourne, Australia) including helpful links to getting your kids started on the path to becoming a maker!!!
 
-![Join the Coding Ninjas]({{ "/Images/Coder_Dojo_Docklands_v0.11" | absolute_url }})
+![Join the Coding Ninjas]({{ "/Images/Coder_Dojo_Docklands_v0.11.png" | absolute_url }})
 
 If you want to know what happens at a CoderDojo and why you should sign up have a look at - [What's On Offer](https://github.com/tangowhisky37/CoderDojo/blob/master/Docs_For_Print/Prospective_Attendee.pdf). 
 
