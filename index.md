@@ -56,7 +56,7 @@ Based on availability of volunteers we'll consider offering additional courses. 
 
 ## Who Runs The CoderDojo
 
-CoderDojo's are run by volunteers and are 100% free. If you have any questions or would like to get in touch, you can write to us at dojo@hack2.live.
+CoderDojo's are run by volunteers and are 100% free. If you have any questions or would like to get in touch, you can write to us at docklandsdojo@hack2.live.
 
 ## What Do I Need To Bring Along
 
@@ -69,7 +69,7 @@ Please bring along the following items -
 
 So come join us, have fun and share in the learning. Let's Ignite the flame of learning, let's inspire the maker in you and let's get creating!!!!
 
-If you have any questions please drop us an email at dojo@hack2.live.
+If you have any questions please drop us an email at docklandsdojo@hack2.live.
 
 ## Howto Book A Seat
 
@@ -83,7 +83,7 @@ Seats are limited, so please make sure you have registered interest well in adva
 
 **Please Note - Requests for admission to CoderDojo Docklands are now being waitlisted**. **Parents/Kids who miss two sessions in a row without prior notice will give up their place to others who are on the waiting list.**.
 
-If you have any questions please drop us an email at dojo@hack2.live.
+If you have any questions please drop us an email at docklandsdojo@hack2.live.
 
 ## Can I Volunteer & Inspire
 
