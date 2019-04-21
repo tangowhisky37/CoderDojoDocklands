@@ -3,9 +3,10 @@ layout: page
 title: Home
 ---
 
-Welcome to CoderDojo Docklands (Melbourne, Australia). Docklands is a modern harbour development dominated by high-rises and the colourful Melbourne Star Observation Wheel, and popular for its shopping and waterside dining. Docklands is known for its pedestrian plazas are adorned with public murals, sculpture and light displays. Families head to concerts and sports at Etihad Stadium, and to Harbour Town's mini-golf and sports car simulators. You can read more about Docklands at [Wikipedia](https://en.wikipedia.org/wiki/Docklands,_Victoria). 
+Welcome to CoderDojo Docklands (Melbourne, Australia). CoderDojo Docklands is run at the Docklands library and makerspace which is also called the [Library at the Dock](https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx). CoderDojo Docklands thanks the City of Melbourne and the Docklands library for their on-going support. CoderDojo Docklands is supported by [City Of Melbourne Council](https://www.melbourne.vic.gov.au/about-council/Pages/about-council.aspx).
 
-CoderDojo Docklands is run at the Docklands library and makerspace also called [Library at the Dock](https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx). CoderDojo Docklands is supported by [City Of Melbourne Council](https://www.melbourne.vic.gov.au/about-council/Pages/about-council.aspx).
+
+Docklands is a modern harbour development dominated by high-rises and the colourful Melbourne Star Observation Wheel, and popular for its shopping and waterside dining. Docklands is known for its pedestrian plazas are adorned with public murals, sculpture and light displays. Families head to concerts and sports at Etihad Stadium, and to Harbour Town's mini-golf and sports car simulators. You can read more about Docklands at [Wikipedia](https://en.wikipedia.org/wiki/Docklands,_Victoria). 
 
 At this page you will find all the information required to sign-up to CoderDojo Docklands (Melbourne, Australia) including helpful links to getting your kids started on the path to becoming a maker!!!
 
@@ -45,7 +46,7 @@ Watch this space. CoderDojo Docklands runs during the school term only. Please s
 
 ## What Are The Making / Creating Tracks On Offer
 
-For details on the various learning tracks on offer at CoderDojo Docklands please visit - [Hacking & Making Tracks On Offer](https://tangowhisky37.github.io/CoderDojo/Pages/Hacking-Making-Tracks). To understand how the tracks we offer aligns with the Australian Digital Curriclum please visit - [Australian Digital Curriculum Map](https://www.codeclubau.org/curriculum/overview.html).
+For details on the various learning tracks on offer at CoderDojo Docklands please visit - [Hacking & Making Tracks On Offer](https://tangowhisky37.github.io/CoderDojoDocklands/Pages/Hacking-Making-Tracks). To understand how the tracks we offer aligns with the Australian Digital Curriclum please visit - [Australian Digital Curriculum Map](https://www.codeclubau.org/curriculum/overview.html).
 
 Access to all the course content at CoderDojo Docklands is offered through our Learning Management System accessible through [KidzCanCode](https://learning.kidzcancode.com). We use the Learning Management system to give you access to the tutorials and also track your childs progress through the term.
 
