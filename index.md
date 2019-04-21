@@ -11,7 +11,7 @@ At this page you will find all the information required to sign-up to CoderDojo 
 
 ![Join the Coding Ninjas]({{ "/Images/Coder_Dojo_Docklands_v0.11.png" | absolute_url }})
 
-If you want to know what happens at a CoderDojo and why you should sign up have a look at - [What's On Offer](https://github.com/tangowhisky37/CoderDojo/blob/master/Docs_For_Print/Prospective_Attendee.pdf). 
+If you want to know what happens at a CoderDojo and why you should sign up have a look at - [What's On Offer](https://github.com/tangowhisky37/CoderDojo/blob/master/Docs_For_Print/Prosepective_Attendee.pdf). 
 
 If you are keen on working with kids and building the next generation of tinkerers, makers and innovators then head over and check out - [Volunteering @ CoderDojo Docklands](https://github.com/tangowhisky37/CoderDojo/blob/master/Docs_For_Print/Prospective_Mentor.pdf).
 
