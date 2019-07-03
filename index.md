@@ -16,7 +16,7 @@ If you want to know what happens at a CoderDojo and why you should sign up have 
 
 If you are keen on working with kids and building the next generation of tinkerers, makers and innovators then head over and check out - [Volunteering @ CoderDojo Docklands](https://github.com/tangowhisky37/CoderDojo/blob/master/Docs_For_Print/Prospective_Mentor.pdf).
 
-The official link to the website is [docklandsdojo.com.au](http://docklandsdojo.com.au). You can reach us on email at docklandsdojo@hack2.live.
+The official link to the website is [docklandsdojo.com.au](http://docklandsdojo.com.au). You can reach us on email at docklandscoderdojo@gmail.com.
 
 ## Class Pictures
 
@@ -36,13 +36,15 @@ We might consider folowing a syllabus where it makes sense, especially with our 
 
 You can read more about the CoderDojo movement at [CoderDojo.com](https://coderdojo.com/about/).
 
-To attend the sessions please see the "Howto Book A Seat" section below. Our sessions are wait-listed and parents are required to request an enrollment using the "Register Interest" form link provided. Only once your enrollment is confirmed are you able to book a ticket through Eventbrite (ticket booking and administration). Enrollments are confirmed at the start of the term and is offered on first come first served basis. Drop us a note at docklandsdojo@hack2.live if you have any questions.
+To attend the sessions please see the "Howto Book A Seat" section below. Our sessions are wait-listed and parents are required to request an enrollment using the "Register Interest" form link provided. Only once your enrollment is confirmed are you able to book a ticket through Eventbrite (ticket booking and administration). Enrollments are confirmed at the start of the term and is offered on first come first served basis. Drop us a note at docklandscoderdojo@gmail.com if you have any questions.
 
 ## When Do We Meet
 
-CoderDojo Docklands meets on twice a month at the Docklands Library (Library at the Dock, Docklands, Melbourne). Schedule for our classes are in the process of being confirmed. 
+CoderDojo Docklands meets on twice a month at the Docklands Library (Library at the Dock, Docklands, Melbourne). Classes are held between 1400 - 1600 Hrs AEST on Sundays (every alternate week). 
 
-Watch this space. CoderDojo Docklands runs during the school term only. Please see the "HowTo Book A Seat" section below to register. We have a waiting list and will get in touch when a seat opens up.
+CoderDojo Docklands runs during the school term only. Please drop us an email at docklandscoderdojo@gmail.com if you have any questions. We'll do our best to respond.
+
+Please see the "HowTo Book A Seat" section below to register. We have a waiting list and will get in touch when a seat opens up.
 
 ## What Are The Making / Creating Tracks On Offer
 
@@ -56,7 +58,7 @@ Based on availability of volunteers we'll consider offering additional courses. 
 
 ## Who Runs The CoderDojo
 
-CoderDojo's are run by volunteers and are 100% free. If you have any questions or would like to get in touch, you can write to us at docklandsdojo@hack2.live.
+CoderDojo's are run by volunteers and are 100% free. If you have any questions or would like to get in touch, you can write to us at docklandscoderdojo@gmail.com.
 
 ## What Do I Need To Bring Along
 
@@ -69,21 +71,21 @@ Please bring along the following items -
 
 So come join us, have fun and share in the learning. Let's Ignite the flame of learning, let's inspire the maker in you and let's get creating!!!!
 
-If you have any questions please drop us an email at docklandsdojo@hack2.live.
+If you have any questions please drop us an email at docklandscoderdojo@gmail.com.
 
 ## Howto Book A Seat
 
 This is a simple three step process.
 
 * Please register interest using the following form - [Link](https://docs.google.com/forms/d/1-iLtbGpd-GwMmVb9FfJ-iOgdm7DQdXnJbzjUeGFQdlE/)
-* Drop us a note at docklandsdojo@hack2.live letting us know that you've filled up the form and registered interest
+* Drop us a note at docklandscoderdojo@gmail.com letting us know that you've filled up the form and registered interest
 * Sit back and relax. We'll let you know when a seat opens up. Drop us a note if you would like an update.  
 
 Seats are limited, so please make sure you have registered interest well in advance. We keep pruning the waiting list and will let you know when a seat opens up. It's likely that this might not happen in the timeframe you expect. If you are unable to take the seat when offered, you will have to go back to the end of the waiting list. 
 
 **Please Note - Requests for admission to CoderDojo Docklands are now being waitlisted**. **Parents/Kids who miss two sessions in a row without prior notice will give up their place to others who are on the waiting list.**.
 
-If you have any questions please drop us an email at docklandsdojo@hack2.live.
+If you have any questions please drop us an email at docklandscoderdojo@gmail.com.
 
 ## Can I Volunteer & Inspire
 
@@ -95,4 +97,4 @@ You’ll need a [Working With Children Check](http://www.workingwithchildren.vic
 
 Finally, we don’t expect our volunteer mentors to attend each and every session. All we ask for is a few hours of your time each week when the dojo is running. If you can’t make a session, then that’s no problem! We’re operate a fun, relaxed, and flexible model for our awesome mentors!
 
-If this sounds like something you’d love to do, then what are you waiting for! Drop us a note at volunteer@hack2.live and let's get the next generation of kids hacking.
+If this sounds like something you’d love to do, then what are you waiting for! Drop us a note at docklandscoderdojo@gmail.com and let's get the next generation of kids hacking.
